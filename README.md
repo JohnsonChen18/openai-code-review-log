@@ -1,5 +1,5 @@
 # AI Code Reviewer Quick Start
-Note: This repo is the log repo of my AI code reviewer. It dose not contain any source code. If you want to see the source code, contact me js.chen.swe@gmail.com with your github id.
+Note: This repo is the log repo of my AI code reviewer. It dose not contain any source code.
 # 1. Apply ChatGLM key
 First, you need to apply the key of ChatGLM at https://open.bigmodel.cn/usercenter/apikeys. Keep your key, we'll use it later.
 
